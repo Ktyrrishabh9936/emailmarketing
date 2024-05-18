@@ -1,0 +1,37 @@
+.addBtn{
+        color: skyblue;
+        font-size: 20px;
+        border-radius: 10px;
+        margin: 0px auto;
+        width: 250px;
+}
+.Template{
+        border: '2px solid #ddd';
+        background-color: #ddd;
+        padding: 13px;
+        display: flex;
+        box-shadow: 2px 4px 5px gray;
+        border-radius: 10px;
+        width: 250px;
+}
+.temp-data{
+        margin-top: auto;
+        margin-bottom: auto;
+        width: 200px;
+}
+.temp-image{
+        background-color: pink;
+        color: brown;
+        padding: 12px;
+        border-radius: 12px;
+        height: min-content;
+        margin-right: 9px;
+}
+
+.temp-title{
+        font-weight: bold;
+        margin: 0px;
+}
+.temp-des{
+        color: palevioletred;
+}
